@@ -81,7 +81,7 @@ print ("Total Countries affected: ", total_c.text)
 
 
 
-
+output
 
 """Connecting to Authentic News source, Please wait .....
 
