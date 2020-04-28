@@ -75,3 +75,40 @@ total_c = wd.find_element_by_id("involvedCountries")
 print("WHO-Global         {}      No-data        {}         \n" .format(w_total.text ,w_death.text))
 
 print ("Total Countries affected: ", total_c.text)
+
+
+
+
+
+
+
+
+"""Connecting to Authentic News source, Please wait .....
+
+Date: Apr-28-2020
+--------------------------------------------------------------------------------------------
+       >>>>>>>>>>>>>>>>>>> INDIA's TOP 5 NEWS HEADLINES on CORONAVIRUS <<<<<<<<<<<<<<       
+--------------------------------------------------------------------------------------------
+
+>> Coronavirus live updates: Karnataka govt relaxes lockdown norms in 14 districts
+>> India coronavirus: The 'mystery' of low Covid-19 death rates
+>> Coronavirus update: Covid-19 cases in India near 29,500. State-wise status
+>> Coronavirus India lockdown Day 35 updates | Karnataka extends relaxation to 14 districts
+>> Arrests in relation to Delhi riots be made in accordance with SC guidelines, says HC
+
+
+--------------------------------------------------------------------------------------------
+                Getting CORONAVIRUS stats from various sources (India)                      
+--------------------------------------------------------------------------------------------
+
+Source Name  --   Total Case  --  Recovered  --  Death
+___________       __________      _________      ______      Please wait .. while collecting data
+Worldometers       29,451           7,137           939 
+Government         21632            6868           934 
+Johns-Hopkins      29692            7180          945 
+
+WHO-Global               No-data                 
+
+Total Countries affected:  
+
+"""
